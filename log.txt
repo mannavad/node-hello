@@ -1,0 +1,12 @@
+
+> node-hello@1.0.0 start F:\Dhana\work\node-hello
+> node index.js
+
+Server running on http://localhost:3000/
+
+> node-hello@1.0.0 start F:\Dhana\work\node-hello
+> node index.js
+
+Server running on http://localhost:3000/
+App started
+App started
